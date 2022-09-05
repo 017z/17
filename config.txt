@@ -1,0 +1,24 @@
+{
+# 公众号配置
+# 公众号appId
+"app_id": "wx81a9afa25f25798f",
+# 公众号appSecret
+"app_secret": "64c7c69ca8eee99542d6baf60e28c0f4",
+# 模板消息id
+"template_id": "RbMYlSyJ68uWG_t-i4hbp0bVP5ZBvgfvCiP-9XzETUw",
+# 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
+"user": ["RbMYlSyJ68uWG_t-i4hbp0bVP5ZBvgfvCiP-9XzETUw"],
+
+# 信息配置
+# 和风天气apikey
+"weather_key": "4793c82c86ee4e21b0b48effb0888ed3",
+# 天行数据apikey
+"tian_api": "76ec3c4f87eba6d8d1aaa1c7e8c64f3e  ",
+# 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦(国外城市可能获取不到pm2.5，空气质量，今日建议等数据)
+"region": "番禺区",
+# 生日1
+"birthday1": {"name": "小钱", "birthday": "2003-07-24"},
+# 生日2
+"birthday2": {"name": "小张", "birthday": "2003-02-17"},
+# 在一起的日子，格式同上
+"love_date": "2022-08-01",
